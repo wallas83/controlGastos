@@ -13,7 +13,7 @@ To deploy this project run
 
 
 ## Demo
-In my page
+https://control-gastosr.netlify.app/
 
 
 ## 🛠 Skills
